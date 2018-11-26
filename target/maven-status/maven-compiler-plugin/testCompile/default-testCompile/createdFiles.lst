@@ -1,0 +1,6 @@
+actionClass\Admin_ClientChPW_ActionTest.class
+actionClass\Admin_AddEmp_ActionTest.class
+actionClass\Admin_Login_ActionTest.class
+actionClass\Bank_Detail_ActionTest.class
+actionClass\Admin_EmpChPW_ActionTest.class
+actionClass\Client_Login_ActionTest.class
