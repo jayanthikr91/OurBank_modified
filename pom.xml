@@ -7,10 +7,6 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>OurBank Maven Webapp</name>
   <url>http://maven.apache.org</url>
-  <properties>
-	<sonar.host.url>http://localhost:9000/</sonar.host.url>
-	<sonar.exclusions></sonar.exclusions>
-  </properties>
  <dependencies>
 		<!-- Servlet -->
 		<dependency>
